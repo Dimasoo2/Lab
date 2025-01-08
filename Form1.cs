@@ -19,7 +19,7 @@ namespace пасьянс
         const int LEFT = 40;
         const int RANK2_ROW = 0;
         const int BOTTOM_ROW = 1;
-        const int TOP = 40;
+        const int TOP = 50;
         const int CARD_WIDTH = 72;
         const int CARD_HEIGHT = 100;
         const int H_SHIFT = CARD_WIDTH + 10;
